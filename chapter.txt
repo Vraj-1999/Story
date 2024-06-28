@@ -13,4 +13,9 @@ git branch to see number of branch
 
 git checkout <branchname> use to switch branch
 
+<<<<<<< HEAD
 
+=======
+add remote repositiory
+.......................................................
+>>>>>>> Marvel-Plot
