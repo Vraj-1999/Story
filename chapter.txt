@@ -1,1 +1,16 @@
-hello My name us Vraj
+
+git init // to initialize git in the directory
+git status // to see which file is in staging area
+git add <filename> // use to add file to staging area
+git commit -m "<message writtien to notidy changes"// to commit changes
+git log // is use to identify the changes made or total commits of the file
+git add . // used to add all files in directory of the file on staging AREA OF 
+git checkout <filename>// used to revolve up to last commit(reverse to laast check point) 
+git diff <filename>// is used to check the previous and current different of file changes
+$ git rm --cached -r .// to undo last step
+git branch <branch name > use to get branch name
+git branch to see number of branch
+
+git checkout <branchname> use to switch branch
+
+
